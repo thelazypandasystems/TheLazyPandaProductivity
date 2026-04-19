@@ -12,7 +12,7 @@ Created by Jacob Pizano. The Lazy Panda Productivity system helps people stop pr
 - Focus tool recommendations
 
 ## Live Site
-[Visit The Lazy Panda Productivity](https://YOUR_USERNAME.github.io/lazy-panda-productivity)
+[Visit The Lazy Panda Productivity](https://thelazypandasystems.github.io/lazy-panda-productivity)
 
 ## Products
 Available at [thelazypanda2012.gumroad.com](https://thelazypanda2012.gumroad.com)
